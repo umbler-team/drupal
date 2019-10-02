@@ -1,7 +1,7 @@
 name: Drupal
 author: Umbler
 logo_url: https://design.umbler.com//assets/svg/sprite-logos.svg#drupal
-version: 8.8
+version: 8.8.x
 description: "Achieve your client’s business goals with Drupal digital experiences that proliferate their brand, fosters engagement, and drives conversions.Customizable and scalable to match your clients’ ambition. Build the dream solution using Drupal’s API-first architecture and third party integrations. Gain the power of the largest open source community."
 short_description: "We're the leading open-source CMS for ambitious digital experiences that reach your audience across multiple channels."
 stack: php
